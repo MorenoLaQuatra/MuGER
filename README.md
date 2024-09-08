@@ -109,3 +109,6 @@ The table below shows the results for the individual languages.
 |       uz       |     1.459     |   1.082   | 1.182 |      1.08      |    1.08   |  1.012 |      0.8666      |    0.80   | 0.70 |      0.6288      |  0.5372  |
 |       vi       |     0.652     |   0.648   | 0.656 |      0.13      |    0.16   |  0.140 |      0.0897      |    0.10   | 0.08 |      0.0825      |  0.0721  |
 |       yo       |     1.251     |   1.099   | 1.322 |      1.04      |    1.04   |  1.114 |      1.0235      |    1.02   | 0.98 |      0.9006      |    0.9   |
+
+> [!NOTE]
+> We plan to release the dataset and the code after the review process is completed. Together we will provide a leaderboard for the MuGER dataset to better navigate the results and include new models.
