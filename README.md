@@ -1,4 +1,4 @@
-# Multilingual Genenerative Error Correction (MuGER)
+# Multilingual Generative Error Correction (MuGER)
 
 This repository contains the code for the paper "A Novel Multilingual Benchmark for Post-ASR Generative Error Correction", currently under review.
 
